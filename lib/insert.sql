@@ -14,5 +14,5 @@ INSERT INTO characters (id, name, species, motto, author_id) VALUES (4, "Rubeus 
 
 INSERT INTO series (id, title, author_id, subgenre_id) VALUES (2, "Game of Thrones", 2, 2);
 
-INSERT INTO authors (id, name) VALUES (2, "");
+INSERT INTO authors (id, name) VALUES (2, "George R. R. Martin");
 INSERT INTO subgenres (id, name) VALUES (2, "Serial Drama");
