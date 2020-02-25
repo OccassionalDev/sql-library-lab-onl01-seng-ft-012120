@@ -12,4 +12,4 @@ INSERT INTO characters (id, name, species, motto, author_id) VALUES (3, "Ronald 
 INSERT INTO characters (id, name, species, motto, author_id) VALUES (4, "Rubeus Hagrid", "Half-Giant", "Listen to me, all three of ya: Yer meddlin' in things that aught not to be meddled in; it's too dangerous.", 1);
 
 
-INSERT INTO series (id, title, author_id, subgenre_id) VALUES (2, "Harry Potter", 2, 2);
+INSERT INTO series (id, title, author_id, subgenre_id) VALUES (2, "Game of Thrones", 2, 2);
