@@ -17,4 +17,4 @@ INSERT INTO series (id, title, author_id, subgenre_id) VALUES (2, "Game of Thron
 INSERT INTO authors (id, name) VALUES (2, "George R. R. Martin");
 INSERT INTO subgenres (id, name) VALUES (2, "Serial Drama");
 
-INSERT INTO characters (id, name, species, motto, author_id) VALUES (5, "Harry Potter", "Human", "Dumbledore left the three of us a job, and we weren't supposed to tell — I mean, he wanted us to do it, just the three of us.", 2);
+INSERT INTO characters (id, name, species, motto, author_id) VALUES (5, "Daenerys Targaryen", "Human", "Dumbledore left the three of us a job, and we weren't supposed to tell — I mean, he wanted us to do it, just the three of us.", 2);
