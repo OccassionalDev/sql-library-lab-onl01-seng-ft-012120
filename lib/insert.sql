@@ -18,3 +18,5 @@ INSERT INTO authors (id, name) VALUES (2, "George R. R. Martin");
 INSERT INTO subgenres (id, name) VALUES (2, "Serial Drama");
 
 INSERT INTO characters (id, name, species, motto, author_id) VALUES (5, "Daenerys Targaryen", "Human", "Not a queen. A Khaleesi", 2);
+
+INSERT INTO characters (id, name, species, motto, author_id) VALUES (6, "Daenerys Targaryen", "Human", "Not a queen. A Khaleesi", 2);
